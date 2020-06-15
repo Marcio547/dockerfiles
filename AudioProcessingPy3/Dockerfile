@@ -20,6 +20,7 @@ RUN apt-get update && apt-get install -y git \
 ## python libraries for Audio processing
 RUN pip3 install numpy scipy matplotlib pymir3 sklearn IPython cython seaborn pandas jupyter
 
+RUN apt-get install vim -y
 
 ## Auxiliary folders for mounting worskpace and downloading auxiliary repos
 RUN mkdir -p /home/Documents/WORKDIR
