@@ -6,6 +6,9 @@ Set of dockerfiles for basic development in some languages
 
 Latest Avaliable:
 
+### Basic Python3 Template
+Contents: numpy scipy matploblib Iptyhon seaborn pandas jupyter
+
 ### Python3 for Audio Processing
 Contents: numpy scipy matplotlib pymir3 sklearn IPython cython seaborn pandas jupyter
 
