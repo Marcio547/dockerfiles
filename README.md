@@ -10,7 +10,7 @@ Latest Avaliable:
 Contents: numpy scipy matplotlib pymir3 sklearn IPython cython seaborn pandas jupyter
 
 ### Python3 for Basic Image processing
-Contents: numpy scipy matplotlib scikit-image pillow openCV 
+Contents: numpy scipy matplotlib scikit-image pillow openCV seaborn pandas jupyter 
 
 ### Python3 for Advanced Image processing (TODO)
 Contents:
