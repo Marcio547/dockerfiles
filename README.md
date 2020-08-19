@@ -12,6 +12,11 @@ Contents: numpy scipy matploblib Iptyhon seaborn pandas jupyter
 ### Python3 for Audio Processing
 Contents: numpy scipy matplotlib pymir3 sklearn IPython cython seaborn pandas jupyter
 
+### Python3 (Anaconda) to Audio Signal Processing for Machine Learning
+Contents: Anaconda distribution and librosa.
+Setup for following the "Audio Signal Processing for Machine Learning"
+Video Series from Valerio Velardo YouTube Channel (The Sound of AI)
+
 ### Python3 for Basic Image processing
 Contents: numpy scipy matplotlib scikit-image pillow openCV seaborn pandas jupyter 
 
